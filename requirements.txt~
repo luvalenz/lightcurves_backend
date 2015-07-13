@@ -1,3 +1,4 @@
 pymongo==3.0.3
 scipy==0.15.1
 pandas==0.16.2
+pyopencl==2015.1
